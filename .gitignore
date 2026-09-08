@@ -1,9 +1,10 @@
 # Unity 自動產生的資料夾（絕不要上傳）
+# 注意：Build/ 一定要用開頭 / 錨定在根目錄，否則會連 docs/Build/（WebGL 成品）都被排除！
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
+/[Bb]uild/
+/[Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 [Mm]emoryCaptures/
