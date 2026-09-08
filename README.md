@@ -21,7 +21,7 @@
 2. **Player Settings → Publishing Settings → Compression Format 改為 Disabled**（或勾選 Decompression Fallback，否則 GitHub Pages 無法載入）
 3. 點 **Build**，輸出資料夾選 repo 裡的 **`docs`** 資料夾（沒有就新建一個，名稱必須是 docs）
 4. commit 並 push（docs 資料夾一起上傳）
-5. 你的遊戲網址：`https://pccu-gamedesign-115-1.github.io/<repo名稱>/`
+5. 你的遊戲網址：`https://pccu-gamedesign.github.io/<repo名稱>/`
    （Pages 已由老師端設定好，push 後等 1–2 分鐘生效）
 6. 把網址貼到本 README 最下方的「作業資訊」欄位，再 commit push 一次
 
